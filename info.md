@@ -12,18 +12,20 @@ Are you a college student?
 
 #### 📱 Message 2
 ```
-Hi! I'm [Your Name] from **Cida Institute** 🎓
+I'm [Counselor Name] from **Cida Institute** 🎓
 
 ✨ **Quality Learning, Affordable Fees — Made for College Students!**
 
 We offer industry-oriented courses in:
 📚 Programming | Python | Java | Web Development | Data Analytics | Data Science & ML | SQL | English Speaking
+
+**Are you interested in learning any of these skills?**
 ```
 ---
 
 #### 📱 Message 3
 ```
-Here is why students choose us: 🌟
+Best of us: 🌟
 
 👥 **Small-Group Interactive Sessions** (Personal Attention)
 💰 **Affordable Fees** designed for college budgets
@@ -31,7 +33,7 @@ Here is why students choose us: 🌟
 🕒 **Flexible Batch Timings** (Fits your college schedule)
 🙋 **Dedicated Doubt-Clearing Support**
 
-Are you interested in learning any of these skills?
+
 ```
 ---
 
