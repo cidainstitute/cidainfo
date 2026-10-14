@@ -18,7 +18,7 @@ which Degree are you pursuing ?
 ```
 I'm [Counselor Name] from Cida Institute
 
-<!-- **Quality Learning, Affordable Fees — Made for College Students!** -->
+// **Quality Learning, Affordable Fees — Made for College Students!** -->
 
 We offer industry-oriented courses in:
 English Speaking
