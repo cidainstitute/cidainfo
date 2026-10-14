@@ -32,6 +32,14 @@ Data Analytics | Data Science & ML | SQL
 *Explore our full course catalogue & syllabus here:*
 http://cidainstitute.in/courses.html
 ```
+```
+*c-cpp-programming:*
+http://cidainstitute.in/c-cpp-programming.html
+```
+```
+*core-advanced-python:*
+http://cidainstitute.in/core-advanced-python.html
+```
 ---
 
 
