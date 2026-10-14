@@ -4,20 +4,26 @@
 
 #### 📱 Message 1
 ```
-Hi 👋
-
+Hi
 Are you a college student?
+```
+
+#### 📱 Message 2
+```
+which Degree are you pursuing ?
 ```
 ---
 
 #### 📱 Message 2
 ```
-I'm [Counselor Name] from **Cida Institute** 🎓
+I'm [Counselor Name] from Cida Institute
 
-✨ **Quality Learning, Affordable Fees — Made for College Students!**
+<!-- **Quality Learning, Affordable Fees — Made for College Students!** -->
 
 We offer industry-oriented courses in:
-📚 Programming | Python | Java | Web Development | Data Analytics | Data Science & ML | SQL | English Speaking
+English Speaking
+Programming | Python | Java | Web Development
+Data Analytics | Data Science & ML | SQL
 
 **Are you interested in learning any of these skills?**
 ```
