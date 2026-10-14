@@ -41,8 +41,12 @@ http://cidainstitute.in/courses.html
 would you like to attend ?
 ```
 
-#### 📱 Message 5
+#### 📱 Message 6
 ```
+🎉 **Special Offer for You!**
+
+🔥 **50% OFF** on all courses for this month!
+
 **Quality Learning, Affordable Fees — Made for College Students!**
 
 Best of us: 🌟
@@ -56,13 +60,3 @@ Best of us: 🌟
 
 ```
 ---
-
-
-#### 📱 Message 5
-```
-🎉 **Special Offer for You!**
-
-🔥 **50% OFF** on all courses for this month!
-🎁 **FREE DEMO CLASS THIS SUNDAY!** 🗓️
-```
-Reply **"YES"** or **"DEMO"** to book your free seat today! 🚀
