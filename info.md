@@ -14,23 +14,30 @@ which Degree are you pursuing ?
 ```
 ---
 
-#### 📱 Message 2
+#### 📱 Message 3
 ```
 I'm [Counselor Name] from Cida Institute
-
-/* **Quality Learning, Affordable Fees — Made for College Students!** */
 
 We offer industry-oriented courses in:
 English Speaking
 Programming | Python | Java | Web Development
 Data Analytics | Data Science & ML | SQL
 
-**Are you interested in learning any of these skills?**
+** Are you interested in learning any of these skills ?**
 ```
 ---
 
-#### 📱 Message 3
+#### 📱 Message 4
 ```
+*Explore our full course catalogue & syllabus here:*
+http://cidainstitute.in/courses.html
+```
+---
+
+#### 📱 Message 5
+```
+**Quality Learning, Affordable Fees — Made for College Students!**
+
 Best of us: 🌟
 
 👥 **Small-Group Interactive Sessions** (Personal Attention)
@@ -43,12 +50,6 @@ Best of us: 🌟
 ```
 ---
 
-#### 📱 Message 4
-```
-💻 **Explore our full course catalogue & syllabus here:**
-🔗 http://cidainstitute.in/courses.html
-```
----
 
 #### 📱 Message 5
 ```
