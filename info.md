@@ -34,6 +34,12 @@ http://cidainstitute.in/courses.html
 ```
 ---
 
+
+#### 📱 Message 5
+```
+*FREE DEMO CLASS THIS SUNDAY!*
+```
+
 #### 📱 Message 5
 ```
 **Quality Learning, Affordable Fees — Made for College Students!**
