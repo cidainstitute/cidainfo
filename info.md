@@ -38,6 +38,7 @@ http://cidainstitute.in/courses.html
 #### 📱 Message 5
 ```
 *FREE DEMO CLASS THIS SUNDAY!*
+would you like to attend ?
 ```
 
 #### 📱 Message 5
