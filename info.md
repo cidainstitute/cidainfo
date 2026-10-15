@@ -44,6 +44,30 @@ http://cidainstitute.in/core-advanced-python.html
 *core-advanced-java:*
 https://cidainstitute.in/core-advanced-java.html
 ```
+```
+*full-stack-web-development:*
+https://cidainstitute.in/full-stack-web-development.html
+```
+```
+*frontend-course:*
+https://cidainstitute.in/frontend-course.html
+```
+```
+*data-analyst-bootcamp:*
+https://cidainstitute.in/data-analyst-bootcamp.html
+```
+```
+*data-science-machine-learning:*
+https://cidainstitute.in/data-science-machine-learning.html
+```
+```
+*database-management:*
+https://cidainstitute.in/database-management.html
+```
+```
+*english-speaking:*
+https://cidainstitute.in/english-speaking.html
+```
 ---
 
 
